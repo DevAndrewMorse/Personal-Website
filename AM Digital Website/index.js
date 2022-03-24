@@ -1,0 +1,1 @@
+$("h6").css("color", "white");
