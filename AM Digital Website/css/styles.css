@@ -46,13 +46,13 @@ video {
 }
 
 .skills {
-  padding: 5% 8%;
+  padding: 2% 2%;
   background-image: linear-gradient(to bottom, black, #02008c);
 }
 
 .skill-box {
   text-align: center;
-  padding: 5%;
+  padding: 2%;
 }
 
 .fa-unity {
@@ -60,11 +60,11 @@ video {
 }
 
 .fa-cubes {
-  color: #3333ff;
+  color: WHITE;
 }
 
 .fa-sliders-h {
-  color: #00b300;
+  color: WHITE;
 }
 
 .fa-unity:hover {
@@ -251,8 +251,8 @@ video {
 
 .card {
   margin: 30px auto;
-  width: 220px;
-  height: 220px;
+  width: 180px;
+  height: 180px;
   border-radius: 40px;
   box-shadow: 5px 5px 30px 7px rgba(0, 0, 0, 0.25), -5px -5px 30px 7px rgba(0, 0, 0, 0.22);
   cursor: pointer;
@@ -302,3 +302,12 @@ video {
     flex-direction: row;
   }
 }
+
+// Added features
+.profile-pic
+{
+  width: 200px;
+  height: 200px;
+  background-color: RED;
+}
+
